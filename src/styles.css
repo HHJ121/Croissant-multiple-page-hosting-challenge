@@ -12,6 +12,16 @@ p {
   text-align: center;
 }
 
+h3 .contact-email {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+h3 .contact-email:hover {
+  text-decoration: underline;
+  color: blueviolet;
+}
+
 img {
   display: block;
   margin: 0 auto;
@@ -26,7 +36,7 @@ img {
 .links a {
   margin: 20px;
   text-decoration: none;
-  color: coral;
+  color: rgb(241, 98, 46);
 }
 
 .links a:hover {
