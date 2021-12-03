@@ -1,0 +1,19 @@
+h1,
+h3,
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  margin: 20px;
+}
